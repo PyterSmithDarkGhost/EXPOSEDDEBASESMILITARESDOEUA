@@ -1,3 +1,5 @@
+...
+
 país,nome,lat,lon,notas,,,
 Afeganistão,Bagram Ab,34.946222,69.264639,2014 acordo permite que as tropas dos EUA permaneçam na Base Aérea de Bagram e em pelo menos mais oito instalações importantes até 2024. ,,,
 Afeganistão,Kandahar Airfield,31.506807,65.847511,,,,
